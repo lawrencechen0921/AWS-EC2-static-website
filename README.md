@@ -12,3 +12,5 @@ Steps:
 2.Make sure your security group allow HTTP(port 80)requests.
              
  3.Scp the three files to your /var/www/html. scp -i "lab1_demo.pem" style.css ec2-user@ec2-13-114-210-254.ap-northeast-1.compute.amazonaws.com:/var/www/html
+ 
+ Result:ec2-54-208-12-93.compute-1.amazonaws.com
