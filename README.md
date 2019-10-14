@@ -4,7 +4,7 @@ EC2 is a self-managed service in AWS.
 
 We can easily createa static website using EC2 acting as a webserver, with installed Apache.In this lab, you will 
 
-•Use EC2 to create the same website for Lab 1.1.
+•Use EC2 to create the same website for S3 static website
 
 Steps:
 1.Follow the bootstrap.txt to install required package
